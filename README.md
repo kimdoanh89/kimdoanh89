@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @kimdoanh89
 - 👀 I’m interested in MultiCloud technologies: AWS, Azure, GCP
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps, GoLang
