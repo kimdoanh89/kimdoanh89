@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m @kimdoanh89
+- My old website is here https://kimdoanh89.github.io/doanhluong.me/
 - My website is here: https://kimdoanh89.github.io/doanhluong/ with
   - Data Structures and Algorithms
   - Design Patterns
